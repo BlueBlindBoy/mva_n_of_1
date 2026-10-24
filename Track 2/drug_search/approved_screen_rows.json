@@ -1,0 +1,2167 @@
+{
+ "chembl_version": "ChEMBL_37",
+ "targets": {
+  "BUB1B": [
+   [
+    "CHEMBL4295998",
+    "Mitotic checkpoint serine/threonine-protein kinase BUB1 beta"
+   ]
+  ],
+  "BUB3": [
+   [
+    "CHEMBL5724769",
+    "Mitotic checkpoint protein BUB3"
+   ]
+  ],
+  "MAD2L1": [],
+  "TRIP13": [
+   [
+    "CHEMBL5465278",
+    "Pachytene checkpoint protein 2 homolog"
+   ]
+  ],
+  "ANAPC1": [],
+  "ANAPC2": [],
+  "APC11": [
+   [
+    "CHEMBL6196123",
+    "Anaphase-promoting complex subunit 11"
+   ]
+  ],
+  "CDC20": [
+   [
+    "CHEMBL4523283",
+    "Cell division cycle protein 20 homolog"
+   ]
+  ],
+  "CDC25C": [
+   [
+    "CHEMBL2378",
+    "M-phase inducer phosphatase 3"
+   ]
+  ],
+  "UBE2C": [
+   [
+    "CHEMBL4105834",
+    "Ubiquitin-conjugating enzyme E2 C"
+   ]
+  ],
+  "PDS5A": [
+   [
+    "CHEMBL5725176",
+    "Sister chromatid cohesion protein PDS5 homolog A"
+   ]
+  ],
+  "PDS5B": [
+   [
+    "CHEMBL6067140",
+    "Sister chromatid cohesion protein PDS5 homolog B"
+   ]
+  ],
+  "PTTG1": [],
+  "CDK1": [
+   [
+    "CHEMBL308",
+    "Cyclin-dependent kinase 1"
+   ],
+   [
+    "CHEMBL4084",
+    "Cyclin-dependent kinase 1"
+   ],
+   [
+    "CHEMBL5213",
+    "Cyclin-dependent kinase 1"
+   ],
+   [
+    "CHEMBL1907602",
+    "Cyclin-dependent kinase 1/cyclin B1"
+   ],
+   [
+    "CHEMBL2094127",
+    "Cyclin-dependent kinase 1/cyclin B"
+   ],
+   [
+    "CHEMBL3038467",
+    "CDK1/Cyclin A"
+   ],
+   [
+    "CHEMBL3038468",
+    "CDK1/Cyclin E"
+   ],
+   [
+    "CHEMBL3559691",
+    "Cyclin-dependent kinase"
+   ],
+   [
+    "CHEMBL3885551",
+    "Cyclin-dependent kinase 1/G1/S-specific cyclin-D1"
+   ],
+   [
+    "CHEMBL4296065",
+    "Cyclin-dependent kinase 1/ G1/S-specific cyclin-D3"
+   ],
+   [
+    "CHEMBL4296066",
+    "Cyclin-dependent kinase 1/Cyclin A1"
+   ],
+   [
+    "CHEMBL4523683",
+    "Protein cereblon/Cyclin-dependent kinase 1"
+   ],
+   [
+    "CHEMBL4523963",
+    "CDK4/CDK1"
+   ],
+   [
+    "CHEMBL5483182",
+    "CDK1/Cyclin A"
+   ],
+   [
+    "CHEMBL5483189",
+    "CDK1/Cyclin E"
+   ],
+   [
+    "CHEMBL6066121",
+    "von Hippel-Lindau disease tumor suppressor/Cyclin-dependent kinase 1"
+   ],
+   [
+    "CHEMBL6066545",
+    "Cyclin-dependent kinase 1/G2/mitotic-specific cyclin-B"
+   ]
+  ],
+  "BUB1": [
+   [
+    "CHEMBL1772932",
+    "Mitotic checkpoint serine/threonine-protein kinase BUB1"
+   ]
+  ],
+  "AURKB": [
+   [
+    "CHEMBL2185",
+    "Aurora kinase B"
+   ],
+   [
+    "CHEMBL1075275",
+    "Aurora kinase B"
+   ],
+   [
+    "CHEMBL3430907",
+    "Aurora kinase B/Inner centromere protein"
+   ],
+   [
+    "CHEMBL3430908",
+    "Aurora kinase B/Receptor-type tyrosine-protein kinase"
+   ],
+   [
+    "CHEMBL3430911",
+    "Serine/threonine-protein kinase Aurora"
+   ],
+   [
+    "CHEMBL3883303",
+    "Aurora kinase A/B"
+   ]
+  ],
+  "AURKA": [
+   [
+    "CHEMBL4722",
+    "Aurora kinase A"
+   ],
+   [
+    "CHEMBL2211",
+    "Aurora kinase A"
+   ],
+   [
+    "CHEMBL3430911",
+    "Serine/threonine-protein kinase Aurora"
+   ],
+   [
+    "CHEMBL3883303",
+    "Aurora kinase A/B"
+   ],
+   [
+    "CHEMBL3883304",
+    "Aurora kinase A/Targeting protein for Xklp2"
+   ],
+   [
+    "CHEMBL4748216",
+    "von Hippel-Lindau disease tumor suppressor/Aurora kinase A"
+   ],
+   [
+    "CHEMBL5169182",
+    "Aurora kinase A-A"
+   ],
+   [
+    "CHEMBL5465201",
+    "Protein cereblon/Aurora kinase A"
+   ]
+  ],
+  "PLK1": [
+   [
+    "CHEMBL3024",
+    "Serine/threonine-protein kinase PLK1"
+   ],
+   [
+    "CHEMBL4519",
+    "Serine/threonine-protein kinase PLK1"
+   ],
+   [
+    "CHEMBL4742280",
+    "Protein cereblon/Serine/threonine-protein kinase PLK1"
+   ],
+   [
+    "CHEMBL6067587",
+    "Serine/threonine-protein kinase PLK1"
+   ],
+   [
+    "CHEMBL6193816",
+    "UBR/Serine/threonine-protein kinase PLK1"
+   ],
+   [
+    "CHEMBL6195529",
+    "von Hippel-Lindau disease tumor suppressor/Serine/threonine-protein kinase PLK1"
+   ]
+  ],
+  "KIF11": [
+   [
+    "CHEMBL4581",
+    "Kinesin-like protein KIF11"
+   ],
+   [
+    "CHEMBL4295640",
+    "Kinesin family member 11"
+   ],
+   [
+    "CHEMBL6193844",
+    "LC3/Kinesin-like protein KIF11"
+   ],
+   [
+    "CHEMBL6195559",
+    "Protein cereblon/Kinesin-like protein KIF11"
+   ]
+  ],
+  "TUBB": [
+   [
+    "CHEMBL5444",
+    "Tubulin beta-5 chain"
+   ],
+   [
+    "CHEMBL2095182",
+    "Tubulin"
+   ],
+   [
+    "CHEMBL3832942",
+    "Tubulin beta"
+   ],
+   [
+    "CHEMBL3885647",
+    "Tubulin alpha-1A /beta chains"
+   ],
+   [
+    "CHEMBL6066847",
+    "Protein cereblon/Tubulin beta"
+   ]
+  ],
+  "CEP57": [],
+  "CDCA7": []
+ },
+ "rows": [
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL3545420",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AG-24322",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL384304",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RG-547",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL3545083",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RGB-286638",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL1944698",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ZOTIRACICLIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL14762",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "SELICICLIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL3545283",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RIVICICLIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL564829",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MILCICLIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL428690",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ALVOCIDIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL308",
+   "target_name": "Cyclin-dependent kinase 1",
+   "molecule_chembl_id": "CHEMBL2103840",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DINACICLIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL3559691",
+   "target_name": "Cyclin-dependent kinase",
+   "molecule_chembl_id": "CHEMBL488436",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AZD-5438",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL3559691",
+   "target_name": "Cyclin-dependent kinase",
+   "molecule_chembl_id": "CHEMBL1230607",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PHA-793887",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL3559691",
+   "target_name": "Cyclin-dependent kinase",
+   "molecule_chembl_id": "CHEMBL445813",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AT-7519",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "CDK1",
+   "target_chembl_id": "CHEMBL3559691",
+   "target_name": "Cyclin-dependent kinase",
+   "molecule_chembl_id": "CHEMBL4442620",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Cyclin-dependent kinase inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RONICICLIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL5095033",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "IBCASERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL1090479",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "GSK-1070916",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL1908397",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "KW-2449",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL4289017",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PF-03814735",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL3544932",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TAK-901",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL495727",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AT-9283",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL3545395",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BI-811283",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL482968",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ENMD-2076",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL2185",
+   "target_name": "Aurora kinase B",
+   "molecule_chembl_id": "CHEMBL415049",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-B inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BARASERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL1980297",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ILORASERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL2140408",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AMG-900",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL1967878",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CENISERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL482967",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CYC-116",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL3545378",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MK-6592",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL482767",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "SNS-314",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL3545327",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TTP-607",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL572878",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TOZASERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKB",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL402548",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DANUSERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL52885",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ENMD-981693",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL1908397",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "KW-2449",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL3600873",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MK-5108",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL259084",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MLN-8054",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL4289017",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PF-03814735",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL3692206",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TAS-119",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL1980391",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RG-1530",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL495727",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AT-9283",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL482968",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ENMD-2076",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL4722",
+   "target_name": "Aurora kinase A",
+   "molecule_chembl_id": "CHEMBL483158",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora-A inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ALISERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL1980297",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ILORASERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL2140408",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AMG-900",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL1967878",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CENISERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL482967",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CYC-116",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL3545378",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MK-6592",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL482767",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "SNS-314",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL3545327",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TTP-607",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL572878",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TOZASERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "AURKA",
+   "target_chembl_id": "CHEMBL3430911",
+   "target_name": "Serine/threonine-protein kinase Aurora",
+   "molecule_chembl_id": "CHEMBL402548",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase Aurora inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DANUSERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL1908394",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "GSK-461364",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL3991927",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "HMN-214",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL5314387",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MK-1496",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL1738758",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ONVANSERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL2392545",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TAK-960",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL3545354",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CAFUSERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL513909",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BI-2536",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "PLK1",
+   "target_chembl_id": "CHEMBL3024",
+   "target_name": "Serine/threonine-protein kinase PLK1",
+   "molecule_chembl_id": "CHEMBL1233528",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Serine/threonine-protein kinase PLK1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VOLASERTIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "KIF11",
+   "target_chembl_id": "CHEMBL4581",
+   "target_name": "Kinesin-like protein KIF11",
+   "molecule_chembl_id": "CHEMBL2105661",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Kinesin-like protein 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "LITRONESIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "KIF11",
+   "target_chembl_id": "CHEMBL4581",
+   "target_name": "Kinesin-like protein KIF11",
+   "molecule_chembl_id": "CHEMBL2347655",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Kinesin-like protein 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "FILANESIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "KIF11",
+   "target_chembl_id": "CHEMBL4581",
+   "target_name": "Kinesin-like protein KIF11",
+   "molecule_chembl_id": "CHEMBL228814",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Kinesin-like protein 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ISPINESIB",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "KIF11",
+   "target_chembl_id": "CHEMBL4581",
+   "target_name": "Kinesin-like protein KIF11",
+   "molecule_chembl_id": "CHEMBL1829433",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Kinesin-like protein 1 inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AZD-4877",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1743082",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TRASTUZUMAB EMTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1742994",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BRENTUXIMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL428647",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PACLITAXEL",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3545252",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DOCETAXEL",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1683544",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ERIBULIN MESYLATE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1201748",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CABAZITAXEL",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL107",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "COLCHICINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1201752",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "IXABEPILONE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL501867",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VINCRISTINE SULFATE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL538943",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VINORELBINE TARTRATE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL378544",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VINBLASTINE SULFATE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2108628",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PACLITAXEL POLIGLUMEX",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL49642",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "INDIBULIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2103826",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DAVUNETIDE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2103852",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CROLIBULIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL552212",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "LEXIBULIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2110725",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VINFLUNINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL289351",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "FOSBRETABULIN DISODIUM",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2105643",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin disrupting agent",
+   "action_type": "DISRUPTING AGENT",
+   "direct_interaction": 1,
+   "molecule_pref_name": "FOSBRETABULIN TROMETHAMINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2304041",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "SAGOPILONE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1096380",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PLINABULIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL492399",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin disrupting agent",
+   "action_type": "DISRUPTING AGENT",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VERUBULIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3545132",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MIRVETUXIMAB SORAVTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3301582",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "POLATUZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297935",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RG-7841",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297804",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PF-06263507",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297859",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AZINTUXIZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297987",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ENAPOTAMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4298045",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "INDUSATUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4298101",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "LADIRATUZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297938",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "LIFASTUZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3990032",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TELISOTUZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297841",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TISOTUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4298209",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BELANTAMAB MAFODOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297268",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BMS-275183",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL39541",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DOLASTATIN-10",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL96172",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "EPOTHILONE D",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297296",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "KOS-1584",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4279455",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "LAROTAXEL",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297441",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PACLITAXEL DOCOSAHEXAENOIC ACID",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4594455",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin disrupting agent",
+   "action_type": "DISRUPTING AGENT",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AGS-16C3F",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL94657",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PATUPILONE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4298098",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TUSAMITAMAB RAVTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1089636",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ANG1005",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4650293",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "APRUTUMAB IXADOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109574",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ASG-5ME",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3301589",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ENFORTUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1743028",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "GLEMBATUMUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3301585",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PINATUZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109281",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RG-7600",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109282",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RG-7636",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3545372",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "SOFITUZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3833306",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VANDORTUZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2111109",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TASIDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297440",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin disrupting agent",
+   "action_type": "DISRUPTING AGENT",
+   "direct_interaction": 1,
+   "molecule_pref_name": "T-900607",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1743037",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "LORVOTUZUMAB MERTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1742997",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CANTUZUMAB MERTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109288",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BIVATUZUMAB MERTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297736",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PRALUZATAMAB RAVTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297892",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ANVATABART OPADOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2107759",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MILATAXEL",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL572284",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "OMBRABULIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3989512",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "SOBLIDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4297636",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "PLOCABULIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2105629",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VINFLUNINE DITARTRATE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL92",
+   "max_phase": 4,
+   "approved": 1,
+   "mechanism_of_action": "Tubulin stabiliser",
+   "action_type": "STABILISER",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DOCETAXEL ANHYDROUS",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL4594515",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "LOSATUXIZUMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109266",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "AVE-9633",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109633",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "IMGN-388",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1742998",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "CANTUZUMAB RAVTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109556",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MLN-2704",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109286",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "COLTUXIMAB RAVTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL5095273",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin disrupting agent",
+   "action_type": "DISRUPTING AGENT",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DISITAMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL5314782",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "TRASTUZUMAB BOTIDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109629",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ANETUMAB RAVTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3545371",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DENINTUZUMAB MAFODOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL3707277",
+   "max_phase": 3,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "DEPATUXIZUMAB MAFODOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL1743031",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "INDATUXIMAB RAVTANSINE",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2108672",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "VORSETUZUMAB MAFODOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109635",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "SAR-566658",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL5095312",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "MECBOTAMAB VEDOTIN",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109575",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "BIIB-015",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL2095182",
+   "target_name": "Tubulin",
+   "molecule_chembl_id": "CHEMBL2109279",
+   "max_phase": 1,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "RG-7598",
+   "chembl_version": "ChEMBL_37"
+  },
+  {
+   "panel_gene": "TUBB",
+   "target_chembl_id": "CHEMBL3832942",
+   "target_name": "Tubulin beta",
+   "molecule_chembl_id": "CHEMBL20684",
+   "max_phase": 2,
+   "approved": 0,
+   "mechanism_of_action": "Tubulin beta inhibitor",
+   "action_type": "INHIBITOR",
+   "direct_interaction": 1,
+   "molecule_pref_name": "ABT-751",
+   "chembl_version": "ChEMBL_37"
+  }
+ ]
+}

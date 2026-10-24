@@ -1,0 +1,8 @@
+{
+  "chrom": "CHROM",
+  "strand": "+",
+  "variants": [
+    {"name": "v1", "pos": 0, "ref": "A", "alt": "C"},
+    {"name": "v2", "pos": 0, "ref": "T", "alt": "G"}
+  ]
+}

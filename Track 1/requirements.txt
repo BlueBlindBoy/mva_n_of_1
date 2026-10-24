@@ -1,0 +1,7 @@
+# Track 1 pipeline dependencies (Python 3.10+)
+requests>=2.31
+
+# Optional: only needed for Stage 5b (AlphaGenome scoring), and only when
+# ALPHAGENOME_API_KEY is set. Without it, the pipeline runs and ranks on
+# VEP + ClinVar + gnomAD + NMD evidence alone.
+# pip install alphagenome  # https://github.com/google-deepmind/alphagenome

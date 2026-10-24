@@ -1,0 +1,30 @@
+[
+  {
+    "id": "target_1",
+    "status": "ok",
+    "confidence_score": 0.615738,
+    "ptm": 0.481645,
+    "iptm": 0.17961,
+    "ligand_iptm": 0.0,
+    "protein_iptm": 0.17961,
+    "complex_plddt": 0.72477,
+    "complex_iplddt": 0.595066,
+    "complex_pde": 1.833628,
+    "complex_ipde": 15.396805,
+    "pair_chains_iptm": {
+      "0": {
+        "0": 0.92673,
+        "1": 0.173715
+      },
+      "1": {
+        "0": 0.17961,
+        "1": 0.671524
+      }
+    },
+    "chains_ptm": {
+      "0": 0.92673,
+      "1": 0.671524
+    },
+    "runtime_s": 154.8
+  }
+]

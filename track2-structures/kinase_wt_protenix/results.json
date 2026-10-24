@@ -1,0 +1,18 @@
+[
+  {
+    "id": "target_1",
+    "status": "ok",
+    "complex_plddt": 0.847773,
+    "plddt": 0.847773,
+    "ptm": 0.907304,
+    "iptm": 0.0,
+    "confidence_score": 0.907304,
+    "n_residues": 301,
+    "n_chains": 1,
+    "n_tokens": 301,
+    "msa": true,
+    "n_atoms": 2473,
+    "samples": 1,
+    "runtime_s": 93.3
+  }
+]

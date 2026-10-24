@@ -1,0 +1,13 @@
+[
+  {
+    "id": "target_1",
+    "status": "ok",
+    "plddt": 0.8189,
+    "ptm": 0.38,
+    "n_residues": 1024,
+    "n_chains": 1,
+    "msa": false,
+    "samples": 1,
+    "runtime_s": 199.0
+  }
+]

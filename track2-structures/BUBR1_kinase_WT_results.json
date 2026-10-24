@@ -1,0 +1,39 @@
+{
+  "archive_url": "/v1/jobs/07348d6187aee0a57ab98448e61524dc/archive",
+  "artifacts": [
+    {
+      "path": "target_1.cif",
+      "target": "target_1",
+      "type": "structure",
+      "url": "/v1/jobs/07348d6187aee0a57ab98448e61524dc/artifacts/target_1.cif"
+    }
+  ],
+  "job_id": "07348d6187aee0a57ab98448e61524dc",
+  "kind": "predict",
+  "object": "results",
+  "ready": true,
+  "rows": [
+    {
+      "chains_ptm": {
+        "0": 0.891436
+      },
+      "complex_ipde": 0.0,
+      "complex_iplddt": 0.840196,
+      "complex_pde": 0.60318,
+      "complex_plddt": 0.840196,
+      "confidence_score": 0.850444,
+      "id": "target_1",
+      "iptm": 0.0,
+      "ligand_iptm": 0.0,
+      "pair_chains_iptm": {
+        "0": {
+          "0": 0.891436
+        }
+      },
+      "protein_iptm": 0.0,
+      "ptm": 0.891436,
+      "runtime_s": 117.1,
+      "status": "ok"
+    }
+  ]
+}

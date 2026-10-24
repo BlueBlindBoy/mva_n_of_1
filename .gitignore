@@ -1,0 +1,40 @@
+# ============
+# PATIENT DATA: NEVER COMMIT.
+# This repo is code + reproduction steps only (see README.md).
+# ============
+
+# Track 1: the submission CSV is deliberately kept out of this repository,
+# because it contains the proband's variant rows (it is the challenge
+# deliverable, kept locally and submitted via the challenge site). The
+# long-form methods preprint and evidence notes contain the same data.
+Track 1/bit_by_bit_hpo-clingen-nmd.csv
+Track 1/Track1_Preprint.docx
+Track 1/evidence/
+output/
+
+# Track 2: local variant config (proband coordinates), scoring output,
+# narrative docs referencing the proband's case
+Track 2/variants.json
+Track 2/pangolin_results.json
+Track 2/drug_repurposing_framework.md
+Track 2/RED_TEAM_AUDIT.md
+Track 2/*_ref.fa
+# model run outputs (depletion panel, validation, atlas tables): keep local
+Track 2/results/
+# methods description form: keep local, out of git on request
+Track 2/methods_description_form.xlsx
+
+# track2-structures: anything derived from the proband's variant allele
+# (sequences, predicted structures, per-variant summaries, WT-vs-variant
+# comparisons, local-regulatory scan). Wild-type reference models stay.
+track2-structures/*n1002k*
+track2-structures/*N1002K*
+track2-structures/alphagenome_results.json
+track2-structures/alphagenome_full_modal.json
+track2-structures/regulatory_modifier_scan.json
+track2-structures/japanfold_complete_summary.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.lock

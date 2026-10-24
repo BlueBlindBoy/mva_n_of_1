@@ -1,0 +1,28 @@
+{
+  "archive_url": "/v1/jobs/72c3453146ffc8b57f7ff5234feaff54/archive",
+  "artifacts": [
+    {
+      "path": "target_1.cif",
+      "target": "target_1",
+      "type": "structure",
+      "url": "/v1/jobs/72c3453146ffc8b57f7ff5234feaff54/artifacts/target_1.cif"
+    }
+  ],
+  "job_id": "72c3453146ffc8b57f7ff5234feaff54",
+  "kind": "predict",
+  "object": "results",
+  "ready": true,
+  "rows": [
+    {
+      "id": "target_1",
+      "msa": false,
+      "n_chains": 1,
+      "n_residues": 1024,
+      "plddt": 0.8316,
+      "ptm": 0.4017,
+      "runtime_s": 241.7,
+      "samples": 1,
+      "status": "ok"
+    }
+  ]
+}
