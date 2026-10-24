@@ -23,7 +23,7 @@ BUB1B_CANONICAL_TRANSCRIPT = "ENST00000287598"
 
 def run_pipeline(
     vcf_path: str,
-    output_path: str = "output/bit_by_bit_hpo-clingen-nmd.csv",
+    output_path: str = "output/bit-by-bit_hpo-clingen-nmd.csv",
     proband_id: str = "PROBAND01",
     hpo_terms: list[str] | None = None,
     epcr: float = 0.85,
@@ -191,7 +191,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Run Track 1 variant prediction pipeline")
     parser.add_argument("--vcf", required=True, help="Path to gzipped VCF")
-    parser.add_argument("--output", default="output/bit_by_bit_hpo-clingen-nmd.csv")
+    parser.add_argument("--output", default="output/bit-by-bit_hpo-clingen-nmd.csv")
     parser.add_argument("--proband-id", default="PROBAND01")
     parser.add_argument("--epcr", type=float, default=0.85)
     args = parser.parse_args()

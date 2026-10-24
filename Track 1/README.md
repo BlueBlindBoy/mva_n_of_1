@@ -3,7 +3,7 @@
 **Challenge:** Rare Disease, Real Kid: The MVA Hackathon 2026, Track 1.
 
 This folder holds the full pipeline code and the steps to reproduce the run.
-The submission file `bit_by_bit_hpo-clingen-nmd.csv` is deliberately kept
+The submission file `bit-by-bit_hpo-clingen-nmd.csv` is deliberately kept
 out of this repository, because it contains the proband's variant data. It
 stays on the local machine and was submitted to the challenge site
 separately. The long-form methods preprint is out of this repository for
@@ -25,7 +25,7 @@ are in the repository.
 pip install -r requirements.txt
 python track1_pipeline/run_pipeline.py \
     --vcf <path-to-gated-WGS-VCF> \
-    --output bit_by_bit_hpo-clingen-nmd.csv \
+    --output bit-by-bit_hpo-clingen-nmd.csv \
     --proband-id <PROBAND_ID> \
     --epcr 0.85
 ```
