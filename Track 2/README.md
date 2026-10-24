@@ -29,15 +29,17 @@ python run_pangolin_bub1b.py
 - Variants to score are read from `variants.json` (format:
   `variants.example.json`). That file is local-only and gitignored, because
   it holds the proband's variant coordinates, which must not be shared.
-- The `<name>_ref.fa` files are 10001 bp windows of public GRCh38 sequence
-  centered on each variant. The script reads the sequence from line 2 of
-  each FASTA. Regenerate them from UCSC or Ensembl using the coordinates in
-  your local `variants.json`. They are public reference data, but they
-  encode the variant positions, so they stay local.
-- For each variant the script scores P(splice) over a 10001 bp window
-  centered on the variant (public GRCh38 reference sequence, supplied as
-  `<name>_ref.fa` alongside) and reports the max gain/loss within ±50 bp.
-  CPU-only.
+- The `<name>_ref.fa` files are 10101 bp windows of public GRCh38 sequence,
+  with the variant at base 5051 (0-based index 5050) and 5050 bp of flank on
+  each side. The script reads the sequence from line 2 of each FASTA.
+  Regenerate them from UCSC or Ensembl using the coordinates in your local
+  `variants.json`. They are public reference data, but they encode the
+  variant positions, so they stay local.
+- For each variant the script scores P(splice) over the 10101 bp window
+  (public GRCh38 reference sequence, supplied as `<name>_ref.fa` alongside)
+  and reports the max gain/loss within ±50 bp. CPU-only. The model consumes
+  the full 10101 bp window and returns a 101-position profile around the
+  variant, so the window length must be exact.
 - The output `pangolin_results.json` contains scores only (variant name +
   tissue scores, no coordinates) and is gitignored. The submitted copy was
   produced the same way.

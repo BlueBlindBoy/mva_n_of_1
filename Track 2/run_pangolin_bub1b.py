@@ -2,8 +2,8 @@
 """Local Pangolin (Zeng & Li, Genome Biology 2022) splice-site scoring, run
 on CPU over public GRCh38 sequence only.
 
-For each variant listed in variants.json (10001 bp window centered on the
-variant, supplied as <name>_ref.fa next to this script):
+For each variant listed in variants.json (10101 bp window, variant at base
+5051, supplied as <name>_ref.fa next to this script):
   - score P(splice) at every position for REF and ALT sequence
   - report the largest increase/decrease within +/-50 bp of the variant
     (mirrors the Pangolin CLI default -d 50)
