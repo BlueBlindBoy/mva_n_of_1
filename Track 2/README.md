@@ -4,7 +4,7 @@
 
 This folder holds the computational scripts and the steps to reproduce the
 run. The final Track 2 report (challenge deliverable) is in this folder as
-`bit_by_bit_track2_report.pdf`, and the submitted methods description form
+`bit-by-bit_track2_report.pdf`, and the submitted methods description form
 is in the repo root (`Methods_Description_Form_Track1_Track2.pdf`). The
 narrative framework and audit documents, along with any output containing
 the proband's variant data, are kept locally under the hackathon data-use

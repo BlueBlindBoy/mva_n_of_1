@@ -16,7 +16,7 @@ are in the repository.
 | Path | What it is |
 |---|---|
 | `track1_pipeline/` | The full pipeline (10 Python modules): VCF parsing, HPO mapping, ClinGen gene-disease validity, VEP annotation, NMD prediction, optional AlphaGenome scoring, ranking, CSV generation. |
-| `bit_by_bit_track1_report.pdf` | The final Track 1 report (challenge deliverable). |
+| `bit-by-bit_track1_report.pdf` | The final Track 1 report (challenge deliverable). |
 | `requirements.txt` | Python dependencies. |
 
 ## Reproduce the run
